@@ -17,8 +17,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React test
+          Learn React test 2
         </a>
+        <div>second branch</div>
       </header>
     </div>
   )
