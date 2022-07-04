@@ -20,6 +20,7 @@ function App() {
           Learn React test 2
         </a>
         <div>second branch</div>
+        <div>updated</div>
       </header>
     </div>
   )
